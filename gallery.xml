@@ -1,0 +1,32 @@
+<galeria>
+    <imagen>
+        <titulo>Imagen 01</titulo>
+        <descripcion>PRIMERA IMAGEN XML</descripcion>
+        <url>img/img1.jpg</url>
+    </imagen>
+
+    <imagen>
+        <titulo>Imagen 02</titulo>
+        <descripcion>Esta es la segunda image</descripcion>
+        <url>img/img2.jpg</url>
+    </imagen>
+
+    <imagen>
+        <titulo>Imagen 03</titulo>
+        <descripcion>Esta es la tercera image</descripcion>
+        <url>img/img3.jpg</url>
+    </imagen>
+    
+    <imagen>
+        <titulo>Imagen 04</titulo>
+        <descripcion>Esta es la cuarta image</descripcion>
+        <url>img/img4.jpg</url>
+    </imagen>
+
+        <imagen>
+        <titulo>Imagen 05</titulo>
+        <descripcion>Esta es la quinta</descripcion>
+        <url>img/bill.jpg</url>
+    </imagen>
+
+</galeria>

@@ -1,0 +1,38 @@
+{
+    "galeria": {
+
+      "imagen": [
+        
+        {
+          "titulo": "Imagen 01",
+          "descripcion": "Esta es la primera imagen",
+          "url": "img/img1.jpg"
+        },
+
+        {
+          "titulo": "Imagen 02",
+          "descripcion": "Esta es la segunda imagen",
+          "url": "img/img2.jpg"
+        },
+
+        {
+          "titulo": "Imagen 03",
+          "descripcion": "Esta es la tercera imagen",
+          "url": "img/img3.jpg"
+        },
+
+        {
+          "titulo": "Imagen 04",
+          "descripcion": "Esta es la cuarta imagen",
+          "url": "img/img4.jpg"
+        },
+
+        {
+          "titulo": "Imagen 05",
+          "descripcion": "Esta es la quinta imagen",
+          "url": "img/img5.jpg"
+        }
+        
+      ]
+    }
+  }
